@@ -82,4 +82,4 @@ Each field begins with a single-letter code, followed by the data for that field
 
 ## Prefer using TypeScript?
 
-If you prefer using TypeScript, check out [csv2qif-ts](https://github.com/fabrizionastri/csv2qif-TS)
+If you prefer using TypeScript, check out [csv2qif-ts](https://github.com/fabrizionastri/csv2qif-ts)
