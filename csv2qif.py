@@ -3,6 +3,22 @@ import argparse
 from datetime import datetime
 
 
+"""_summary_
+    Modified CSV to QIF converter
+    This is a simple converter that inputs a CSV file with specific fields:
+        D - Date - date of the transaction
+        T - Amount - amount value of the transaction (positive: income, negative: expense)
+        P - Payee - if income, who paid; else, who is paid
+        M - Memo - free-form information on the transaction
+
+    MoneyDance has other fields:
+        C - if the transaction is Uncleared (blank), Cleared, or Reconciling
+        N - the external check or transaction number
+        L - the Category; if there are Tags, they follow a "/"
+        
+    The modifications will let me include the other MoneyDance fields
+    """
+
 def print_row(rowNr, date, amount, payee, memo):
     print(
         f"{str(rowNr):<3} | "

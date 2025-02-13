@@ -1,0 +1,180 @@
+!Type:Class
+NPersonal Finances
+DPersonal Finances
+^
+!Type:Cat
+!Option:AutoSwitch
+!Account
+NMy Bank Account
+D
+TBank
+^
+!Clear:AutoSwitch
+!Type:Security
+NAB SICAV I Eurozone EQ
+SABZUT
+TMutual Fund
+^
+!Type:Security
+NAB SICAV I GLB
+SLU0128316923
+TMutual Fund
+^
+!Type:Security
+NFTGF Clearbridge US
+SLMCLT
+TMutual Fund
+^
+!Type:Security
+NIShares Core MSCI Japan
+SXJANF
+TMutual Fund
+^
+!Type:Security
+NIShares Core MSCI Pac Ex
+SXIERF
+TMutual Fund
+^
+!Type:Security
+NIShares US Mortgage
+SIMBXF
+TMutual Fund
+^
+!Type:Security
+NMFS Meridian US Value
+SMWVST
+TMutual Fund
+^
+!Type:Security
+NMirova Euro Sust Eq
+SNMEET
+TMutual Fund
+^
+!Type:Security
+NNB Emerging Mkts Equity
+SNEMET
+TMutual Fund
+^
+!Type:Security
+NNatixis Loomis SL US
+SLOOLT
+TMutual Fund
+^
+!Type:Security
+NNinety One UK Alpha FD
+SIDMFT
+TMutual Fund
+^
+!Type:Security
+NPimco GIS Glbl Invstmnt
+SPIGGT
+TMutual Fund
+^
+!Type:Security
+NPimco Gis Mortgage
+SPGMXT
+TMutual Fund
+^
+!Type:Security
+NRobeco BP US Large Cap
+SRULCT
+TMutual Fund
+^
+!Type:Security
+NSPDR Russell 2000 U.S.
+SSSEUF
+TMutual Fund
+^
+!Type:Security
+NVanguard FTSE North
+SVFUUF
+TMutual Fund
+^
+!Type:Security
+NXTrackers II Global Govt
+SXTRXF
+TMutual Fund
+^
+!Option:AutoSwitch
+!Account
+NMy Bank Account
+D
+TBank
+^
+!Type:Bank
+D02/02/2025
+T-5.00
+C 
+N555555
+Pdescription
+Mmemo
+LFood/El_Remanso
+^
+!Type:Prices
+"ABZUT",32.4757935882352,"08/13/2020"
+"ABZUT",40.38,"09/30/2024"
+^
+!Type:Prices
+"LU0128316923",18.4333974358974,"11/17/2021"
+"LU0128316923",20.09,"09/30/2024"
+^
+!Type:Prices
+"LMCLT",200.663214285714,"02/10/2022"
+"LMCLT",324,"09/30/2024"
+^
+!Type:Prices
+"XJANF",44.9556701030928,"08/11/2020"
+"XJANF",57.38,"09/30/2024"
+^
+!Type:Prices
+"XIERF",159.079019607843,"08/11/2020"
+"XIERF",198.35,"09/30/2024"
+^
+!Type:Prices
+"IMBXF",4.85522162688748,"07/29/2022"
+"IMBXF",5.3025,"09/30/2024"
+^
+!Type:Prices
+"MWVST",33.5223813420622,"08/12/2020"
+"MWVST",42.27,"09/30/2024"
+^
+!Type:Prices
+"NMEET",108.217368421053,"08/17/2020"
+"NMEET",155.08,"09/30/2024"
+^
+!Type:Prices
+"NEMET",13.29,"09/03/2024"
+"NEMET",14.3,"09/30/2024"
+^
+!Type:Prices
+"LOOLT",198.78731092437,"08/13/2020"
+"LOOLT",346.33,"09/30/2024"
+^
+!Type:Prices
+"IDMFT",29.7693434343434,"08/12/2020"
+"IDMFT",38.28,"09/30/2024"
+^
+!Type:Prices
+"PIGGT",22.05,"08/17/2020"
+"PIGGT",22.33,"09/30/2024"
+^
+!Type:Prices
+"PGMXT",10.6130845771144,"02/15/2024"
+"PGMXT",11.24,"09/30/2024"
+^
+!Type:Prices
+"RULCT",262.851666666667,"08/13/2020"
+"RULCT",453.88,"09/30/2024"
+^
+!Type:Prices
+"SSEUF",58.2314606741573,"02/14/2024"
+"SSEUF",64,"09/30/2024"
+^
+!Type:Prices
+"VFUUF",90.061935483871,"08/12/2020"
+"VFUUF",140.98,"09/30/2024"
+^
+!Type:Prices
+"XTRXF",12.8659179379274,"08/14/2020"
+"XTRXF",13.105,"09/30/2024"
+^
